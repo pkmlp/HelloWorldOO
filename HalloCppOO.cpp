@@ -14,7 +14,7 @@ class HelloWorld {
 }; 
  
 int main() {
-    HelloWorld a;  
-    a.sayHello();  
+    HelloWorld halloCpp;  
+    halloCpp.sayHello();  
     return 0;
 }
