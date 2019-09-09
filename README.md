@@ -1,5 +1,5 @@
 # HelloWorldOO
 
-## Hello OO World in Python und Java
+## Hello OO World in Python, Java und C++
 
-Hello World in Python und Java, wirklich Objekt-Orientiert
+Hello World in Python, Java und C++ wirklich Objekt-Orientiert
